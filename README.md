@@ -1,9 +1,5 @@
 # 网站
 
-## 风格不错的网站
-
-https://www.iocoder.cn/Kafka/build-debugging-environment/?github
-
 ## Web 框架 / Web 服务器 基准测试 排名   
 
 https://www.techempower.com/benchmarks/#section=data-r21
