@@ -1,6 +1,6 @@
 # 网站
 
-## 各国语言码
+## 语言标准编码 语言码 语言编码
 
 https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes
 
