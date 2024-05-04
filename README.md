@@ -2,7 +2,7 @@
 
 ## YouTube video downloader
 
-https://x2mate.com/
+https://x2mate.com/ (更好 可以下载 1080p 如有 不同网站下载的 720p 视频内容一样 无差别 fc /b file1.mp4 file2.mp4 可比较)
 
 https://en.y2mate.is/
 
