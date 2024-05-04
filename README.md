@@ -3,7 +3,7 @@
 ## YouTube video downloader
 
 https://x2mate.com/  
-更好 可以下载 1080p 如有 
+更好 可以下载 1080p 如有  
 1080p 预览的 file size 貌似不准 下载后 file size 更大  
 不同网站下载的同质量的视频内容一样 无差别 fc /b file1.mp4 file2.mp4 可比较
 
