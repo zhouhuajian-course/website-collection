@@ -1,5 +1,11 @@
 # 网站
 
+## 语义化版本 软件版本
+
+Semantic Versioning
+
+https://semver.org/lang/zh-CN/
+
 ## HTTP 响应状态码
 
 https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Status
