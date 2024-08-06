@@ -33,6 +33,8 @@ https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes
 
 https://www.rapidtables.org/zh-CN/web/color/html-color-codes.html
 
+https://htmlcolorcodes.com/zh/
+
 ## HTML to Markdown
 
 https://www.convertsimple.com/convert-html-to-markdown/
